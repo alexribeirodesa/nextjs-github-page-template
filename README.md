@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -14,9 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+You can't use the [API routes](https://nextjs.org/docs/api-routes/introduction) as GitHub Pages only support static content.
 
 ## Learn More
 
@@ -27,8 +23,18 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Configure a GitHub Page
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Deploy on GitHub
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Configure a Custom Domain
+
+## The Creator
+Hi, I'm Alexandre Ribeiro de Sá. <a href="https://www.instagram.com/elalezito" target="_blank">@elalezito</a>
+
+In past years I have developed several assets for Unity, GameMaker and Construct, developed original games for arcade machines and more :)
+
+Now I'm using some of my free time to stream on YouTube and develop a free, powerfull and easy to use 2D game engine.
+
+## Support the Project
+<a href="https://www.buymeacoffee.com/canalzito" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
