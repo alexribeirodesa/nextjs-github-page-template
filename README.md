@@ -1,7 +1,7 @@
-## Getting Started
+
+Open [https://alexribeirodesa.github.io/nextjs-github-page-template/](https://alexribeirodesa.github.io/nextjs-github-page-template/) to test the template!
 
 ## Getting Started
-
 First, run the development server:
 
 ```bash
@@ -31,6 +31,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 Update the values from next.build.config.js to
 - basePath: "/your-github-project",
 - assetPrefix: "/your-github-project",
+
+When using the next/image component, you will need to add the basePath in front of src.
+For example, using /docs/me.png will properly serve your image when basePath is set to /docs.
 
 ## Deploy on GitHub
 
