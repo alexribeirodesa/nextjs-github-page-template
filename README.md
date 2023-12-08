@@ -1,5 +1,4 @@
-
-Open [https://alexribeirodesa.github.io/nextjs-github-page-template/](https://alexribeirodesa.github.io/nextjs-github-page-template/) to test the template!
+Open [https://alexribeirodesa.github.io/nextjs-github-page-template/](https://alexribeirodesa.github.io/nextjs-github-page-template/) to test the project template!
 
 ## Getting Started
 First, run the development server:
@@ -35,9 +34,12 @@ Update the values from next.build.config.js to
 When using the next/image component, you will need to add the basePath in front of src.
 For example, using /docs/me.png will properly serve your image when basePath is set to /docs.
 
-## Deploy on GitHub
+## Deploy on GitHub Page
 
-## Deploy on CloudFlare
+## Deploy on CloudFlare Page
+
+## Know Issues
+- NextJS Image not working with static images;
 
 ## The Creator
 Hi, I'm Alexandre Ribeiro de Sá. <a href="https://www.instagram.com/elalezito" target="_blank">@elalezito</a>
